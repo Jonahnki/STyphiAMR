@@ -1,0 +1,4 @@
+drug_class,n_matched,phenotype_column,n_lab_R,n_lab_S,n_lab_I,overall_concordance,concordance_flagged,concordance_unflagged,n_flagged,n_unflagged,chi2,p_value
+azithromycin,4018,Azithromycin Result,43,3642,0,0.9883,1.0,0.9881,69,3949,0.1203,0.728697
+fluoroquinolone,4018,Ciprofloxacin Result,762,354,2002,0.267,0.2319,0.2677,69,3949,0.2796,0.596992
+third_gen_cephalosporin,4018,Ceftriaxone Result,521,3213,4,0.9878,1.0,0.9876,69,3949,0.1427,0.705585

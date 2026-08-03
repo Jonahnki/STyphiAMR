@@ -1,0 +1,7 @@
+drug_class,placebo_full_prevalence,placebo_screened_prevalence,abs_difference,p_value
+azithromycin,0.0058,0.0056,0.0003,0.226703
+fluoroquinolone,0.6688,0.6695,0.0006,0.59593
+third_gen_cephalosporin,0.0538,0.0543,0.0004,0.450707
+carbapenem,0.0001,0.0001,0.0,1.0
+multidrug_resistance,0.2812,0.2801,0.0012,0.267756
+extensively_drug_resistant,0.0492,0.0496,0.0004,0.521045
