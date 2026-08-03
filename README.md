@@ -1,4 +1,3 @@
-```markdown
 # Assembly-Quality Contamination Screening and Its Impact on Antimicrobial Resistance Predictions for Typhoid Fever Treatment
 
 This repository accompanies a reanalysis of the Global Typhoid Genomics Consortium (GTGC) dataset, testing whether assembly-quality screening measurably changes reported antimicrobial resistance (AMR) prevalence in *Salmonella* Typhi, and whether any such change reflects a genuine difference in genotype-call accuracy rather than an artefact of exclusion.
@@ -50,4 +49,3 @@ A full citation with DOI will be added here upon publication.
 ## License
 
 Code in this repository is released under the [MIT License](LICENSE). Data files are derived from publicly available consortium resources (GTGC, AMRnet, Mykrobe) — see Data provenance above for original sources and their respective usage terms.
-```
